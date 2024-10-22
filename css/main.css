@@ -2,8 +2,10 @@
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&display=swap');
+
 html {
-    background-color: lightgray;
+    background-color: floralwhite;
     font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -14,12 +16,12 @@ html {
     background: #ff0;
 }
 
-h1 {
-    font-weight: normal;
-    margin: auto;
-    background: #fff;
-    line-height: 2.5em;
-}
+
+h1 {  font-family: "Playwrite GB S", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }}
 
 main.wrapper {
     background-color: white;
