@@ -1,7 +1,7 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: firebrick;
+    background-color: #896558;
     overflow: auto;
 }
 
@@ -14,10 +14,12 @@
     text-decoration: none;
     text-transform: capitalize;
     font-size: 16px;
+    font-family: "Rethink Sans", serif;
+    
 }
 
 .topnav a.hover, .active {
-    background-color: darkslateblue;
+    background-color: #7A2700;
 }
 
 .topnav .icon {
