@@ -8,7 +8,7 @@
 
 
 html {
-    background-color: #00333D;
+    background-color: black;
     font-family: "Rethink Sans", serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -33,6 +33,7 @@ h1 {  font-family: "Rethink Sans", serif;
     width: 100%; /* Make the image responsive */
     max-width: 150px; /* Set the max width to 150px */
     height: 150px; /* Fixed height */
+    padding-left: 140px;
 }
 
 /* New code */
@@ -48,6 +49,7 @@ p {
 }
 
 h2,h3 {
+    font-size: 1.5em;
     font-weight: bold;
     margin-left: 1em;
     line-height: 1em;
